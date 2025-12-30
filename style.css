@@ -510,6 +510,11 @@ html, body{
     z-index: 999;
   }
 
+
+
+
+
+
   /* PUSH HERO BELOW HEADER */
   .hero {
     padding-top: 72px;         /* 👈 SAME AS HEADER HEIGHT */
@@ -552,6 +557,8 @@ html, body{
     height: calc(90vh - 72px);
   }
 }
+
+
 
 
 
